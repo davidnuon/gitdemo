@@ -1,11 +1,13 @@
 #include <iostream>
 
+// Fixed by David 
+
 using namespace std;
 
 void foobar() {
-  cout << "I LOVE C++!!!"
+  cout << "I HATE  Java!!! jk";
 }
 
-int mein() {
+int main() {
   foobar();
 }
